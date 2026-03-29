@@ -1,5 +1,7 @@
 # toast-backend
 
+**Repository:** [abel-tefera/toast-backend](https://github.com/abel-tefera/toast-backend)
+
 Backend API server for the Toast platform.
 ---
 🤖 Agent fix for LIT-25: Update readme.md
