@@ -1,9 +1,0 @@
-[submodule "toast-frontend"]
-	path = toast-frontend
-	url = https://github.com/abel-tefera/toast-frontend.git
-[submodule "toast-backend"]
-	path = toast-backend
-	url = https://github.com/abel-tefera/toast-backend.git
-[submodule "toast-database"]
-	path = toast-database
-	url = https://github.com/abel-tefera/toast-database.git
