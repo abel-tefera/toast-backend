@@ -1,3 +1,3 @@
-# toast-stack
+# toast-backend
 
-Parent repository for the Toast platform. Individual services live in git submodules.
+Backend API server for the Toast platform.
