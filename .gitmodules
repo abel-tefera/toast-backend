@@ -1,9 +1,9 @@
 [submodule "toast-frontend"]
 	path = toast-frontend
-	url = https://github.com/abel-tefera/toast-frontend.git
+	url = http://git-proxy:9418/614bff9413efdf9ad71f42068fc6e9b0/abel-tefera/toast-frontend.git
 [submodule "toast-backend"]
 	path = toast-backend
-	url = https://github.com/abel-tefera/toast-backend.git
+	url = http://git-proxy:9418/614bff9413efdf9ad71f42068fc6e9b0/abel-tefera/toast-backend.git
 [submodule "toast-database"]
 	path = toast-database
-	url = https://github.com/abel-tefera/toast-database.git
+	url = http://git-proxy:9418/614bff9413efdf9ad71f42068fc6e9b0/abel-tefera/toast-database.git
